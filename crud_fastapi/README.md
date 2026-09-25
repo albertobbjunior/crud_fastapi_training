@@ -8,7 +8,7 @@ Projeto acadêmico simples utilizando:
 - SQLAlchemy
 - Pydantic
 - Docker
-- Uvicorn
+- Uvicorn2
 
 ---
 
